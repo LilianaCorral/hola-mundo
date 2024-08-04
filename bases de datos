@@ -1,0 +1,2 @@
+USE tienda; // 
+DESCRIBE empleado; //permite realizar una descripción de la tabla
